@@ -4,12 +4,12 @@ Smallest library that every project needs!
 It just... Runs your function in new thread with decorator!
 
 ```bash
-pip install thread
+pip install ezzthread
 ```
 
 # Use
 ```python
-from thread import threaded
+from ezzthread import threaded
 
 @threaded
 def func():

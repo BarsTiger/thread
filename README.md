@@ -1,4 +1,4 @@
-# thread
+# ezzthread
 Smallest library that every project needs!
 
 It just... Runs your function in new thread with decorator!
